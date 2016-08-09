@@ -14,4 +14,5 @@
     <color name="snack_bar_action_text_color">#EEFF41</color>
     <color name="mic_recording_color">#ffffff</color>
     <color name="mic_background_color">#ffffff</color>
+    <color name="missing_permission_view_background_color">@android:color/white</color>
 </resources>
